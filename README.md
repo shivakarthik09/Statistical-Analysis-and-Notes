@@ -1,2 +1,2 @@
 # Statistical-Analysis-and-Notes
-Statistical hypothesis Test  using R
+Statistical hypothesis Testing  using R
